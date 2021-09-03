@@ -1,5 +1,4 @@
 # Project4
-AIB-Project4
 
 Dataset : 내시경 이미지 데이터 (https://datasets.simula.no/kvasir/)
 
